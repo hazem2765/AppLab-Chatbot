@@ -15,7 +15,7 @@ The application allows a user to:
 
 ## Disclaimer
 
-This project was developed as a self-contained prototype for an interview assignment. It is designed to run entirely on a local machine. All document parsing, embedding, search, and inference are handled locally without reliance on external APIs or cloud-based services.
+This project was developed as a self-contained prototype. It is designed to run entirely on a local machine. All document parsing, embedding, search, and inference are handled locally without reliance on external APIs or cloud-based services.
 
 ## Project Structure
 
